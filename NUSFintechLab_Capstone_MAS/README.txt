@@ -20,7 +20,7 @@ This package contains folders and files shown as follows.
 -MAS_ALL_Showcase_Final.ipynb
 This is the core of the package. This is python notebook file which can run on google colab. It contains whole codes of MAS and explanations of each agent. As this file is the core for the output of the capstone internship this time, you can check this file on google cola first.
 
--FinTechLab-KC-48269a6c0391.json
+-xxxxxx.json
 This is the json file to run google text analytics when we analyze twitter sentiment. You need to place this file under the folder of NUSFintechLab_Capstone_MAS. When you execute text sentiment analysis, please confirm that you place this file at this folder.
 
 *Folders
