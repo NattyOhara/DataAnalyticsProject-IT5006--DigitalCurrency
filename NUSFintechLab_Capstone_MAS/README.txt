@@ -3,7 +3,6 @@
 README
 Naoya Ohara, CFA, CAIA
 A0197178L
-e0395606@u.nus.edu
 2021 Sept 13
 ########################
 
